@@ -1,0 +1,31 @@
+//
+// export const entitydata=[
+//     {
+//         lon:106.537167,
+//         lat:29.491782,
+//         name:"田径运动场",
+//         id:ew,
+//         type:,
+//     },
+//     {
+//         lon:,
+//         lat:,
+//         name:,
+//         id:,
+//         type:,
+//     },
+//     {
+//         lon:,
+//         lat:,
+//         name:,
+//         id:,
+//         type:,
+//     },
+//     {
+//         lon:,
+//         lat:,
+//         name:,
+//         id:,
+//         type:,
+//     },
+// ]

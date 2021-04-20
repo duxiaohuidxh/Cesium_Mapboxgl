@@ -1,2 +1,19 @@
-# Cesium_Mapboxgl
-这是基于vue框架开源地理引擎Cesium + echarts + mapbxgl + openalyers三维可视化项目
+# cesiummap
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

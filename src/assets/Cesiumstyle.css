@@ -1,0 +1,57 @@
+
+.distance-legend{
+    left: 1%;
+}
+.navigation-controls{
+    right: 25px !important;
+    top:69%  !important;
+    border: 1px solid #00a5f2;
+    background-color:#3f4854!important;
+}
+.cesium-home-button,.cesium-sceneModePicker-button3D,.cesium-sceneModePicker-visible {
+    border: 1px solid #00a5f2;
+}
+.compass-outer-ring {
+    fill: #00a5f2;
+}
+.navigation-control {
+    border-bottom: 1px solid #00a5f2;
+}
+.compass{
+    top:58% !important;
+    right: 1px !important;
+    width: 90px !important;
+    height: 90px !important;
+
+}
+.cesium-viewer-vrContainer{
+    top:94%!important;
+    right: 25px !important;
+    background-color: rgba(40,47,65,0.8)!important;
+}
+.cesium-viewer-fullscreenContainer{
+    top:91%!important;
+    right: 25px !important;
+    background-color: #262d38!important;
+}
+.cesium-viewer-toolbar {
+    top: 80%;
+    right: 15px;
+    width: 50px;
+}
+.cesium-button{
+    background-color:#3f4854!important;
+}
+.distance-legend-label{
+    background-color: rgba(40,47,65,0.4)!important;
+}
+.distance-legend{
+    border-radius: 5px 1px 5px 0px !important;
+    background-color: rgba(40,47,65,0.4)!important;
+}
+.cesium-widget-cesiumNavigationContainer{
+    position: inherit !important;
+}
+.navigation-controls{
+    border: 1px solid #00a5f2 !important;
+}
